@@ -27,4 +27,4 @@
 </br>
 </br>
 
-# Olá, eu sou Hudson Lucas! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Olá, eu sou Hudson Lucas! <img src="Assets/java_logo.png" width="40px"></h2>
