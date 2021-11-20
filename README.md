@@ -34,9 +34,9 @@
 
 <div style="display: inline_block"  >
 <img align="right" width="200" height="270" style="border-radius:100px;" src="Assets/bonfire.gif" />
-<p> - 👨‍🎓 Estudante de Java: Spring Boot, Hibernate/JPA, MongoDB. </p>
+<p> - 👨‍🎓 Estudante de Java: Spring Boot, Hibernate/JPA, MongoDB </p>
 <p> - 🎯 Interesse: Java, Spring Boot, SQL, HTML, CSS, JavaScript/TypeScript, React, Python e <b>machine learning</b>. </p>
-<p> - 🤖 Quando me perguntaram o que eu queria ser? há era "Astronauta" e hoje eu quero programar a skynet! haha </p>
+<p> - 🤖 Quando me perguntaram o que eu queria ser? há era "Astronauta" e hoje eu quero programar a <b>skynet</b>! haha </p>
 <p> - 🥋 Gosto de lutar jiu-jitsu, programar e jogar todo tipo de jogo indie/soulslike bora jogar juntos! </p>
 </div>
 
